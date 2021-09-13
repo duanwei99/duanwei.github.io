@@ -1,4 +1,4 @@
-table border="0">
+<table border=<"0">
   <tr>
     <td width="75%">
       <h1>段伟</h1>
@@ -9,3 +9,4 @@ table border="0">
     </td>
     <td width="25%">
       <img src="/IMG_5812.jpg" wi
+   <tr>
