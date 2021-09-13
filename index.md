@@ -8,4 +8,4 @@ table border="0">
       <p><b>地址：重庆邮电大学</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" wi
+      <img src="/IMG_5812.jpg" wi
